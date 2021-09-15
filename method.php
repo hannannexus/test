@@ -13,3 +13,5 @@ class Test{
 $map = new Test("Rajshahi","bangladesh");
 
 $map->welcome("Dhaka","bangladesh");
+$map->welcome("Naogoan","bangladesh");
+
